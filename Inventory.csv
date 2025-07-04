@@ -1,0 +1,15 @@
+id,name,category,quantity,unit,reorder_level,price_per_unit
+101,Apple,Fruits,50,kg,10,120
+102,Tomato,Vegetables,30,kg,8,40
+103,Milk,Dairy,20,litres,5,55
+104,Sugar,Grocery,100,kg,20,45
+105,Bread,Bakery,15,pcs,5,25
+106,Potato,Vegetables,80,kg,25,30
+107,Butter,Dairy,10,pcs,3,50
+108,Soap,Personal Care,40,pcs,10,35
+109,Rice,Grocery,120,kg,30,60
+110,Orange,Fruits,35,kg,10,100
+111,Cheese,Dairy,5,pcs,2,80
+112,Eggs,Poultry,60,pcs,20,6
+113,Shampoo,Personal Care,25,bottles,5,150
+114,Flour,Grocery,75,kg,20,35
